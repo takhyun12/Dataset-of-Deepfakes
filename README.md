@@ -8,6 +8,6 @@ The target in the video was marked in the '/images'
 ## Case1:
 ![fig 1](https://user-images.githubusercontent.com/41291493/71501929-7cb7d900-28b0-11ea-8dd5-a373bfbb2cd3.png)
 
-We conducted an experiment on another Deep Fakes video with DeepVision on the same conditions as the previous experiment. As a result, the EAR value was changed as shown in [Figure 14]. At about 9 seconds after the measurement began, a blink was detected once, and since then, the EAR level has remained constant. The number of blinks (/min) and the period (/sec) measured in experiment were discovered as significantly lower than the information (number, cycle, etc) of the actual human blink corresponding to the condition (female+40-50+Static+AM). Thus, it was determined as “Fake”.
+We conducted an experiment on another Deep Fakes video with DeepVision on the same conditions as the previous experiment. As a result, the EAR value was changed as shown in figure. At about 9 seconds after the measurement began, a blink was detected once, and since then, the EAR level has remained constant. The number of blinks (/min) and the period (/sec) measured in experiment were discovered as significantly lower than the information (number, cycle, etc) of the actual human blink corresponding to the condition (female+40-50+Static+AM). Thus, it was determined as “Fake”.
 
 ## Case2:
