@@ -1,6 +1,6 @@
 # Deepfakes dataset 
 
-Author: Tackhyun Jung
+Author: TACKHYUN JUNG, SANGWON KIM
 
 Status: Stop
 
