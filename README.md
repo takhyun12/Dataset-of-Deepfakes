@@ -1,8 +1,8 @@
 # Deepfakes dataset 
 
-Author: TACKHYUN JUNG, SANGWON KIM
+#### Author: TACKHYUN JUNG, SANGWON KIM
 
-Status: Stop
+#### Status: Stop
 
 We are offering an dataset for deepfake detection based on frames that contains 8 videos.
 
